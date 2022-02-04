@@ -6,13 +6,13 @@ Data Analysis and Machine Learning Algorithms application for Age of Empires II 
 
 ### Statistics of Civilizations
 Data Cleaning and sampling to 0,1% of data.
-<br /> Number of matches played by civilizations.
-<br /> Win rate of civilizations in matches.
+<br /> Playin rates of civilizations in matches.
+<br /> Win rates of civilizations in matches.
 ### Statistics of Maps
 Data Cleaning and sampling to 0,1% of data.
-<br /> Number of matches played in maps.
-<br /> Playin rate of maps in matches.
-<br /> Number of matches played in maps by the map sizes.
+<br /> Numbers of matches played in maps.
+<br /> Playin rates of maps in matches.
+<br /> Numbers of matches played in maps by the map sizes.
 ### Statistics of Servers
 Number of matches played in servers.
 <br /> Playin rate of matches in servers.
